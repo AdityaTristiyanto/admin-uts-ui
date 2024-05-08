@@ -22,14 +22,14 @@ const Single = () => {
                 className="itemImg"
               />
               <div className="details">
-                <h1 className="itemTitle">Fernanda</h1>
+                <h1 className="itemTitle">Aditya</h1>
                 <div className="detailItem">
                   <span className="itemKey">Email:</span>
-                  <span className="itemValue">fernandacakep@gmail.com</span>
+                  <span className="itemValue">Adituhuyy@gmail.com</span>
                 </div>
                 <div className="detailItem">
                   <span className="itemKey">Phone:</span>
-                  <span className="itemValue">081222277004</span>
+                  <span className="itemValue">087548796000</span>
                 </div>
                 <div className="detailItem">
                   <span className="itemKey">Address:</span>
